@@ -1,0 +1,12 @@
+{
+  "kafka": {
+    "brokersList": [
+      "localhost:9092"
+    ],
+    "consumerGroupId": "tasksClient",
+    "clientId": "test",
+    "topics": [
+      "three"
+    ]
+  }
+}

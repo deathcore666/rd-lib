@@ -1,0 +1,11 @@
+{
+  "name": "rd-kafka-lib",
+  "version": "0.0.1",
+  "dependencies": {
+    "config": "^1.30.0",
+    "node-rdkafka": "^2.3.2"
+  },
+  "scripts": {
+    "start": "node kafka-consumer.js"
+  }
+}
